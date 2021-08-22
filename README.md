@@ -29,6 +29,6 @@ One of the challenges encountered during the analysis was identifying the correc
 
 - It can be concluded that the campaigns with the goal range less than 1000 and launched in the month of May may have an optimum success rate.
 
-- One of the limitations of the dataset is that the size is limited. Various other factors could also hava an influence on the outcome of the campaign. Without all th efactors included, a correct analysis cannot be made. Hence the analysis report might not be an actual representation. Another limitation is that the Date on which the campaign reached the Goal is not available. a
+- One of the limitations of the dataset is that the size is limited. Various other factors could also hava an influence on the outcome of the campaign. Without all th efactors included, a correct analysis cannot be made. Hence the analysis report might not be an actual representation. Another limitation is that the Date on which the campaign reached the Goal is not available. 
 
--Further detailed analysis can be made by plotting a chart with the Duration of the Project to the Outcomes with the given dataset. We can also plot a chart to identify the relationship between the Outcome of Project based on the Categories.  We can also identify the popular categories in different countries with a table with proper fields.
+- Further detailed analysis can be made by plotting a chart with the Duration of the Project to the Outcomes with the given dataset. We can also plot a chart to identify the relationship between the Outcome of Project based on the Categories.  We can also identify the popular categories in different countries with a table with proper fields.
