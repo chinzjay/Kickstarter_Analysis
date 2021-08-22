@@ -1,12 +1,12 @@
 # An Analysis of Kickstarter Campaigns
-### Purpose
+## Purpose
 The purpose of this project is to identify how the campaigns fare to their launch dates and funding goals. 
 
 ## Analysis and Challenges
-
+![Theater_Outcomes_vs_Launch.png] (C:\Users\chinn\Desktop\Analysis Projects\Crowdfunding Analysis\Resources\Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Launch Date
-This report describes the relation of the outcomes to their launch dates. Theater_Outcomes_vs_Launch.png shows a line graph of the Month of Launch(x-axis) vs Outcomes(y-axis). The chart can be filtered based on the outcomes as well as the year of the launch. ![Theater_Outcomes_vs_Launch.png](C:/Users/chinn/Desktop/Analysis Projects/Crowdfunding Analysis/Theater_Outcomes_vs_Launch.png)
+This report describes the relation of the outcomes to their launch dates. Theater_Outcomes_vs_Launch.png shows a line graph of the Month of Launch(x-axis) vs Outcomes(y-axis). The chart can be filtered based on the outcomes as well as the year of the launch. ![Theater_Outcomes_vs_Launch.png] C:/Users/chinn/Desktop/Analysis Projects/Crowdfunding Analysis/Theater_Outcomes_vs_Launch.png)
 
 From the chart, it can be seen that the month of launch has an impact on the outcome. Campaigns during the month of May has the highest rate of success. It can also be seen that the campaigns during the month May, July and October has a higher rate of failure compared to the other months.
 
