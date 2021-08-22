@@ -1,16 +1,15 @@
 # An Analysis of Kickstarter Campaigns
 ## Purpose
-The purpose of this project is to identify how the campaigns fare to their launch dates and funding goals. 
+The purpose of this report is to help Louie to identify how the campaigns fare to their launch dates and funding goals. 
 
 ## Analysis and Challenges
-![Theater_Outcomes_vs_Launch.png] (C:\Users\chinn\Desktop\Analysis Projects\Crowdfunding Analysis\Resources\Theater_Outcomes_vs_Launch.png)
 
-### Analysis of Outcomes Based on Launch Date
-This report describes the relation of the outcomes to their launch dates. Theater_Outcomes_vs_Launch.png shows a line graph of the Month of Launch(x-axis) vs Outcomes(y-axis). The chart can be filtered based on the outcomes as well as the year of the launch. ![Theater_Outcomes_vs_Launch.png] C:/Users/chinn/Desktop/Analysis Projects/Crowdfunding Analysis/Theater_Outcomes_vs_Launch.png)
+### *Analysis of Outcomes Based on Launch Date*
+This report describes the relation of the outcomes to their launch dates. Theater_Outcomes_vs_Launch.png shows a line graph of the Month of Launch(x-axis) vs Outcomes(y-axis). The chart can be filtered based on the outcomes as well as the year of the launch. ![Theater_Outcomes_vs_Launch.png](https://github.com/chinzjay/Kickstarter_Analysis/blob/main/Outcomes_vs_Goals.png)
 
 From the chart, it can be seen that the month of launch has an impact on the outcome. Campaigns during the month of May has the highest rate of success. It can also be seen that the campaigns during the month May, July and October has a higher rate of failure compared to the other months.
 
-### Analysis of Outcomes Based on Goals
+### *Analysis of Outcomes Based on Goals*
 This report describes the relation of the outcomes of the campaigns to their goal amount. Outcomes_vs_Goals.png depicts a line graph that shows the relation between the goal of the campaign to the outcome. It can be seen from the graph that the Goal-amount range is plotted on the x-axis to the Percentage of the outcome on the y-axis. 
 ### Challenges and Difficulties Encountered
 
