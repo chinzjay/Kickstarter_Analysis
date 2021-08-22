@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 ## Purpose
-The purpose of this report is to help Louise the playwright identify how the campaigns fare to their launch dates and funding goals. 
+The purpose of this report is to help Louise, the playwright to identify how the campaigns fare to their launch dates and funding goals. 
 
 ## Analysis and Challenges
 The report consists of Analysis of the Outcomes of the campaigns based on the Launch Date and the Goal Range. Graphs were plotted which were then analysed to make conclusions for the outcomes based on the different criterias.
