@@ -21,9 +21,6 @@ A new sheet was created (Outcomes based on Goals) in the [Kickstarter_Analysis](
 
 It can be seen from Fig 2. that the Goal Range has an impact on the campaign's outcome. Campaigns during the month of May has the highest rate of success. It can also be seen that the campaigns during the month May, July and October has a higher rate of failure compared to the other months.
  
-### *Challenges and Difficulties Encountered*
-One of the challenges encountered during the analysis was identifying the correct fields to be plotted on the graph axis. It took some trial and error during the analysis of the report to better represent the data in the graphs.  
-
 ## Results 
 - It can be concluded from the analysis based on Fig 1. that the month of May maybe the best time of the year for a successful campaign. The failure rate is higher in the months May through July and October. It is evident from the analysis based on Fig 2. that the campaigns with goals less than 1000 may have the best rate of success followed by the ones with goals between the range 1000-4999. Campaigns with a goal range higher than 45000 has higher failure rates.
 
